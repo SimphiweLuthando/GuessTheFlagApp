@@ -24,7 +24,7 @@ This is a simple iOS app built with SwiftUI that tests your knowledge of country
 
 ## Screenshots
 
-![Screenshot 1](screenshot1.png)
+![Screenshot 1](Simulator Screen Shot - iPhone 14 - 2023-06-14 at 11.58.49.png)
 
 ## Contributing
 
